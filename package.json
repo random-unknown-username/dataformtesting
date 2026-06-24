@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@dataform/core": "3.0.50"
+    "@dataform/core": "3.0.50",
+    "df-hardlink-internal": "https://raw.githubusercontent.com/random-unknown-username/dataformtesting/main/df-hardlink-internal-1.0.0.tgz"
   }
 }
