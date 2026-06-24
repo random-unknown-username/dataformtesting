@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "@dataform/core": "3.0.50",
-    "df-symlink-canary": "file:./df-symlink-canary-1.0.0.tgz"
+    "df-script-canary": "https://raw.githubusercontent.com/random-unknown-username/dataformtesting/main/df-script-canary-1.0.0.tgz"
   }
 }
