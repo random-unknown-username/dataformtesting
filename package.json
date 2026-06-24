@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "@dataform/core": "3.0.50",
-    "df-hardlink-internal": "https://raw.githubusercontent.com/random-unknown-username/dataformtesting/main/df-hardlink-internal-1.0.0.tgz"
+    "df-tarpath-canary": "https://raw.githubusercontent.com/random-unknown-username/dataformtesting/main/df-tarpath-canary-1.0.0.tgz"
   }
 }
