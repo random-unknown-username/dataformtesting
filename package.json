@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "@dataform/core": "3.0.50",
-    "df-script-canary": "https://raw.githubusercontent.com/random-unknown-username/dataformtesting/main/df-script-canary-1.0.0.tgz"
+    "pako": "1.0.11"
   }
 }
