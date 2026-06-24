@@ -1,0 +1,9 @@
+{
+  "name": "dataformtesting",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@dataform/core": "3.0.50",
+    "df-symlink-canary": "file:./df-symlink-canary-1.0.0.tgz"
+  }
+}
