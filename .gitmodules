@@ -1,3 +1,0 @@
-[submodule "vendor/subtest"]
-	path = vendor/subtest
-	url = https://github.com/random-unknown-username/dataformtesting
